@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Bolor Erdem - Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Bolor Erdem
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,20 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+sub_heading: Kindergarden
+textline: |-
+  This is the description for Bolor Erdem.
+
+  Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
+
 ---
