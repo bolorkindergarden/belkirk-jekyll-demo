@@ -1,7 +1,7 @@
 title: Bolor Erdem
 short_title: Bolor
 description: Bolor Erdem Tsetserleg
-baseurl: bolorerdem.mn
+baseurl:
 permalink: "/:path/"
 defaults:
   - scope:
