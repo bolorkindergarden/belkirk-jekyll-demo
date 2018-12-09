@@ -13,7 +13,7 @@ services:
   icon: "/uploads/2018/12/09/IMG_3378.jpeg"
 sub_heading: Kindergarden
 textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-  lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+  lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 hero_button:
   text: Learn more
   href: "/about"
