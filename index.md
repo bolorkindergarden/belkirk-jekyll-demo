@@ -14,9 +14,6 @@ services:
 sub_heading: цецерлег
 textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
   lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-hero_button:
-  text: ''
-  href: ''
 show_news: true
 show_staff: false
 menu:
