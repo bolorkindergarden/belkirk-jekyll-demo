@@ -1,5 +1,5 @@
 ---
-title: Home
+title: НҮҮР ХУУДАС
 banner_image: "/uploads/2018/12/09/IMG_3053.jpeg"
 layout: landing-page
 heading: Болор Ердем
@@ -23,5 +23,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
 
 ---
