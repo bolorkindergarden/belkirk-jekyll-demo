@@ -9,7 +9,7 @@ textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsu
 menu:
   navigation:
     identifier: _posts
-    weight: 3
+    weight: 4
   footer:
     identifier: _posts
     weight: 2

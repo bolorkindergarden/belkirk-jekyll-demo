@@ -8,7 +8,7 @@ textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsu
 menu:
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
   footer:
     identifier: _projects
     url: "/projects/"
