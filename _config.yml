@@ -1,7 +1,7 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
-baseurl:
+title: Bolor Erdem
+short_title: Bolor
+description: Bolor Erdem Tsetserleg
+baseurl: bolorerdem.mn
 permalink: "/:path/"
 defaults:
   - scope:
