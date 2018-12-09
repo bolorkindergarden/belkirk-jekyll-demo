@@ -10,3 +10,4 @@ fields:
   default: post
 pages:
 - _posts/2018-12-09-new-website.md
+- _posts/hello.md
