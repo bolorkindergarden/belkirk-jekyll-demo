@@ -1,5 +1,5 @@
 ---
-title: News
+title: МЭДЭЭЛЭЛ
 layout: posts
 sub_heading: ''
 description: News
