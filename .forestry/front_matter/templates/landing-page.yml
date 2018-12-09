@@ -66,7 +66,7 @@ fields:
 - type: boolean
   name: show_news
   label: Show News?
-  description: Enables a news section with a twitter feed & latest posts
+  description: Enables a news section with a facebook page & latest posts
 - type: image_gallery
   name: partners
   label: Partner Logos
