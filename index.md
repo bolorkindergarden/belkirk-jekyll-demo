@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2018/12/09/IMG_3053.jpeg"
 layout: landing-page
 heading: Bolor Erdem
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Lorem ipsum lorem ipsum lorem ipsum lorem
   heading: Fun
