@@ -11,11 +11,14 @@ services:
 - description: Lorem ipsum lorem ipsum
   heading: Food
   icon: "/uploads/2018/12/09/IMG_3378.jpeg"
-sub_heading: цецерлег
+sub_heading: цецерлэг
 textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
   lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 show_news: true
 show_staff: false
+hero_button:
+  text: ''
+  href: ''
 menu:
   navigation:
     identifier: _index
