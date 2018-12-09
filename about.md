@@ -9,7 +9,7 @@ textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsu
   lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
-menu:
+menus:
   footer:
     identifier: _about
     weight: 4

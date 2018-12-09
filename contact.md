@@ -6,7 +6,7 @@ heading: Contact
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 textline: " "
-menu:
+menus:
   navigation:
     identifier: _contact
     weight: 5

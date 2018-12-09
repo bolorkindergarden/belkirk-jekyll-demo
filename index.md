@@ -19,7 +19,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
-menu:
+menus:
   navigation:
     identifier: _index
     weight: 1

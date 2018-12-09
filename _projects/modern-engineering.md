@@ -9,7 +9,7 @@ sub_heading: ''
 tags:
 - event
 slug: ''
-menu:
+menus:
   footer:
     weight: 1
 
