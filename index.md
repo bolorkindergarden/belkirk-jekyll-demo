@@ -1,6 +1,6 @@
 ---
-title: Bolor Erdem - Home
-banner_image: "/img/banner.png"
+title: Home
+banner_image: "/uploads/2018/12/09/IMG_3053.jpeg"
 layout: landing-page
 heading: Bolor Erdem
 partners:
@@ -8,24 +8,20 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Lorem ipsum lorem ipsum lorem ipsum lorem
+  heading: Fun
+  icon: "/uploads/2018/12/09/IMG_2727.jpeg"
+- description: Lorem ipsum lorem ipsum
+  heading: Food
+  icon: "/uploads/2018/12/09/IMG_3378.jpeg"
 sub_heading: Kindergarden
-textline: |-
-  This is the description for Bolor Erdem.
-
-  Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+  lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
 hero_button:
   text: Learn more
   href: "/about"
 show_news: false
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
