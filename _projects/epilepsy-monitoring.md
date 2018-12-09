@@ -6,8 +6,7 @@ description: A portable device for epileptic patients.
 banner_image: "/uploads/2018/12/09/IMG_3014.jpeg"
 sub_heading: ''
 tags:
-- engineering
-- research
+- english
 slug: ''
 
 ---
