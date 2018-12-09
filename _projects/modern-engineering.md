@@ -9,9 +9,9 @@ sub_heading: ''
 tags:
 - event
 slug: ''
-menus:
+menu:
   footer:
-    weight: 1
+    weight: 2
 
 ---
 Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
