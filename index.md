@@ -13,7 +13,7 @@ services:
   icon: "/uploads/2018/12/09/IMG_3378.jpeg"
 sub_heading: цэцэрлэг
 textline: Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-  lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+  lorem ipsum lorem ipsum lorem ipsum lorem ipsum hello
 show_news: true
 show_staff: false
 hero_button:
