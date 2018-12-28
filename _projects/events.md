@@ -6,8 +6,7 @@ description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addic
   Program for Canada'
 banner_image: "/uploads/2018/12/28/48914124_610377306071739_6094816432795680768_n.jpg"
 sub_heading: Дунд бүлэг цасан охид
-tags:
-- event
+tags: []
 slug: ''
 menu:
   footer:
