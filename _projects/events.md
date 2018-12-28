@@ -4,8 +4,8 @@ date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/12/09/IMG_3407.jpeg"
-sub_heading: ''
+banner_image: "/uploads/2018/12/28/48426154_610386746070795_8072147254783246336_n.jpg"
+sub_heading: 'цэцэрлэгийн шинэ жилийн өглөөлөг '
 tags:
 - event
 slug: ''
@@ -14,4 +14,4 @@ menu:
     weight: 2
 
 ---
-Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+2018-12-26 цэцэрлэгийн 4 бүлгийн шинэ жилийн өглөөлөг боллоо.Хүүхдүүд маань бүгд сурсан мэдсэнээ аав ээждээ баяр хөөртэй үзүүллээ.
