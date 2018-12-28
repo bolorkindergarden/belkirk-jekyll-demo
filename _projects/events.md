@@ -4,7 +4,7 @@ date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/12/28/48403565_610404619402341_9104178950564741120_n.jpg"
+banner_image: "/uploads/2018/12/28/48414265_610404402735696_8839254063393538048_n.jpg"
 sub_heading: 'цэцэрлэгийн шинэ жилийн өглөөлөг '
 tags:
 - event
