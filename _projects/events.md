@@ -1,6 +1,6 @@
 ---
 title: Events
-date: 2016-04-20 00:00:00 +0000
+date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'

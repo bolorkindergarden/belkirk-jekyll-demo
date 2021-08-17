@@ -1,7 +1,6 @@
 ---
 label: person
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -37,8 +36,8 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/teacher-two.md
-- _people/teacher-three.md
+- _people/lorem-ipsum.md
 - _people/matus-faro.md
 - _people/teacher-four.md
-- _people/lorem-ipsum.md
+- _people/teacher-three.md
+- _people/teacher-two.md

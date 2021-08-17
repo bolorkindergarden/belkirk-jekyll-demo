@@ -1,7 +1,6 @@
 ---
 label: posts
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -9,6 +8,6 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/2018-12-09-new-website.md
 - _posts/2018-12-09-hello.md
+- _posts/2018-12-09-new-website.md
 - _posts/2018-12-12-hello-again.md
