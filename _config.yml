@@ -1,7 +1,7 @@
 title: Bolor Erdem
 short_title: Bolor
 description: Bolor Erdem Tsetserleg
-baseurl:
+baseurl: /bolor-kindergarden-site/
 permalink: "/:path/"
 defaults:
   - scope:
